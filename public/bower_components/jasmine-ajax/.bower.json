@@ -1,0 +1,44 @@
+{
+  "name": "jasmine-ajax",
+  "description": "A library for faking Ajax responses in your Jasmine suite.",
+  "version": "3.3.1",
+  "main": "lib/mock-ajax.js",
+  "license": "MIT",
+  "homepage": "https://github.com/jasmine/jasmine-ajax",
+  "authors": [
+    "JR Boyens <jboyens@fooninja.org>",
+    "Gregg Van Hove <gregg@slackersoft.net>"
+  ],
+  "dependencies": {
+    "jasmine": "~2"
+  },
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jasmine",
+    "ajax"
+  ],
+  "ignore": [
+    "**/.*",
+    "Gemfile",
+    "Gemfile.lock",
+    "Gruntfile.js",
+    "Rakefile",
+    "bower_components",
+    "node_modules",
+    "spec",
+    "src",
+    "travis-script.sh"
+  ],
+  "_release": "3.3.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.3.1",
+    "commit": "d825854a12d1739f0b5936c7827f784de93e8583"
+  },
+  "_source": "https://github.com/jasmine/jasmine-ajax.git",
+  "_target": "^3.3.1",
+  "_originalSource": "jasmine-ajax",
+  "_direct": true
+}

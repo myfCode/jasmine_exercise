@@ -1,0 +1,23 @@
+{
+  "name": "public",
+  "authors": [
+    "myfCode <mayuefeng90@126.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine-core": "jasmine#^2.5.2",
+    "jquery": "^3.1.1",
+    "jasmine-jquery": "^2.1.1",
+    "jasmine-ajax": "^3.3.1"
+  }
+}
